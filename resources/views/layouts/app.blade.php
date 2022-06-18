@@ -34,6 +34,14 @@
         .button{
             color: #6874E8;
         }
+        .form-control{
+            background-color: white !important;
+            color: grey !important;
+        }
+        .card-header{
+            background-color: #392759;
+            color: white;
+        }
     </style>
 </head>
 <body>
