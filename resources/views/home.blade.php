@@ -14,14 +14,14 @@
             <div class="d-flex justify-content-center align-items-center">
                 <div class="button">
                     <div class="text-center mt-5 pt-5">
-                        <a class="btn btn-primary mt-5 text-white" href="#about">Let's Check</a>
+                        <a class="btn btn-primary mt-5 text-white" href="#cekong">Let's Check</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="about-section text-center" id="about">
+    <div class="cekong-section text-center mt-5 pt-5 mb-5 pb-5" id="cekong">
         <div class="card">
             <div class="card-header">
                 <h4 class="my-0 font-weight-normal">Cek Ongkirmu Disini!</h4>
@@ -73,7 +73,20 @@
                 </form>
             </div>
         </div>
-
     </div>
+
+    <section class="about-section text-center mt-5 pt-5" id="about">
+        <div class="container px-4 px-lg-5">
+            <div class="row gx-4 gx-lg-5 justify-content-center">
+                <div class="col-lg-8">
+                    <h2 class="text-white mb-4">Cek Ongkir Se-Indonesia</h2>
+                    <p class="text-white-50">
+                        Cekong merupakan sebuah platform yang memudahkan para penjual dan pebisnis online untuk melakukan cek tarif ongkir. Anda bisa cek ongkir JNE serta ekspedisi lainnya menggunakan Shipper dalam melakukan cek tarif pengiriman dengan mudah, cepat, akurat, di mana saja, dan kapan saja. Shipper mendukung pengecekan cek ongkos kirim termurah dari berbagai macam ekspedisi yang ada di Indonesia
+                    </p>
+                </div>
+            </div>
+            {{-- <img class="img-fluid" src=" " alt="..." /> --}}
+        </div>
+    </section>
 </div>
 @endsection
