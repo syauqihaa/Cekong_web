@@ -41,7 +41,7 @@
                                     @endforeach
                                 </select>
                             </div>
-                            {{-- <div class="form-group">
+                            <div class="form-group">
                                 <label for="">Kota/Kabupaten</label>
                                 <select name="origin_city" id="" class="form-control">
                                     <option value="#">-</option>
@@ -55,7 +55,7 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="col">
+                        {{-- <div class="col">
                             <h5 class="text-muted">Pilih Expedisi:</h5>
                             @foreach ($courier as $key => $value)
                             <div class="form-check form-check-inline">
@@ -64,12 +64,12 @@
                             </div>
                             @endforeach
                         </div>
-                    </div>
+                    </div> --}}
                     <div class="form-row">
                         <div class="col">
                             <button type="submit" class="btn btn-primary">Submit</button>
                         </div>
-                    </div> --}}
+                    </div>
                 </form>
             </div>
         </div>
