@@ -81,11 +81,10 @@
                 <div class="col-lg-8">
                     <h2 class="text-white mb-4">Cek Ongkir Se-Indonesia</h2>
                     <p class="text-white-50">
-                        Cekong merupakan sebuah platform yang memudahkan para penjual dan pebisnis online untuk melakukan cek tarif ongkir. Anda bisa cek ongkir JNE serta ekspedisi lainnya menggunakan Shipper dalam melakukan cek tarif pengiriman dengan mudah, cepat, akurat, di mana saja, dan kapan saja. Shipper mendukung pengecekan cek ongkos kirim termurah dari berbagai macam ekspedisi yang ada di Indonesia
+                        Cekong merupakan sebuah platform yang memudahkan para penjual dan pebisnis online untuk melakukan cek tarif ongkir. Anda bisa cek ongkir JNE serta ekspedisi lainnya menggunakan Cekong dalam melakukan cek tarif pengiriman dengan mudah, cepat, akurat, di mana saja, dan kapan saja. Cekong mendukung pengecekan cek ongkos kirim termurah dari berbagai macam ekspedisi yang ada di Indonesia.
                     </p>
                 </div>
             </div>
-            {{-- <img class="img-fluid" src=" " alt="..." /> --}}
         </div>
     </section>
 </div>
